@@ -1,0 +1,2 @@
+# Rgit
+R training repository
